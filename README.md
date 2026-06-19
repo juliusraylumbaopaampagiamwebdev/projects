@@ -1,0 +1,5 @@
+- Hi, I'am Julius Ray Lumbao Paampag
+- I am the main project repository for the courses found at my site: www.learncomputertoday.net
+- I am so glad to meet you here
+- I hope we learn together
+- Let's learn computer today!
